@@ -1,4 +1,41 @@
 .wrapper{
-    margin= 5px;
+    margin: 5px;
 }
 
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: grey;
+}
+
+#margin-experiment1{
+    height:100px;
+    background: black;
+        border: none;
+        margin:0px 0px 0px 0px;
+}
+
+#margin-experiment2{
+    height:100px;
+    background: red;
+        border:none;
+        margin:0px 0px 0px 0px;
+}
+
+#margin-experiment3{
+    height:100px;
+    background: yellow;
+        border:none;
+        margin:0px 0px 0px 0px;
+}
+
+.box-text{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+}
